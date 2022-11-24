@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.Bio img{
+  border-radius: 50%;
+  width: 280px;
+}
+
+.Cards img{
+ width: 300px;
+ 
+}
+
+
+
+.card{
+  background: pink;
+  border-radius: 20px;
+  color: rgb(24, 24, 24);
+  line-height: 28px;
+  padding: 10px;
+  width: 50%px;
+  margin: 10px;
+}
+
+.card >h2{
+  padding-top: 20px;
+
+}
+
+.footer p {
+  font-size: 1.2em;
+  margin-top: 50px;
+}
